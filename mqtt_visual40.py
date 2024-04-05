@@ -18,7 +18,6 @@ import subprocess
 #MQTT_ADDR = "broker.hivemq.com"
 #MQTT_ADDR = "test.mosquitto.org"
 #MQTT_ADDR = "mqtt.eclipseprojects.io"
-MQTT_ADDR = '178.124.155.107' # "belaz"
 
 MQTT_PORT = 1883
 MQTT_USER = 'vibro'
